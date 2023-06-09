@@ -1,2 +1,2 @@
 # Calculate-Age-in-Months-Days
-Learning Python by creating small projects
+Project to print your age in years,months and days
